@@ -1,5 +1,4 @@
-# Simple EMA trading strategy based on SP500, 5-year backtest on H1 time frame (from 01/01/2020 to 01/08/2025)
-# just Long position
+# Simple EMA trading strategy based on SP500, 5-year backtest on H1 time frame (from 01/01/2020 to 01/08/2025) - just Long position
 
 ** Important Notice**  
 This strategy references **external classes** required for its proper operation, including:
@@ -81,3 +80,4 @@ It is not guaranteed for production use. Trading in financial markets is **at yo
 - **LinkedIn**: [Matteo Signorotti](https://www.linkedin.com/in/matteo-signorotti-668334176/)
 
 ---
+
